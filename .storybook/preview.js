@@ -4,7 +4,7 @@ export const decorators = [
   (Story) => (
     <>
       <GlobalStyles />
-      <Stroty />
+      <Story />
     </>
   )
-];
+]
